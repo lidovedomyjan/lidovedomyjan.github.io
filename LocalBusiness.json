@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Lidové domy Jan",
+    "image": "http://lidovedomyjan.cz/images/house.png",
+    "telephone": "604 604 974",
+    "email": "dornija@seznam.cz",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "474",
+        "addressLocality": "Lidečko",
+        "postalCode": "756 15"
+    }
+}
